@@ -48,17 +48,19 @@
 
 ###
 
-<h3 align="left">📄 Check out my [CV](https://github.com/SyntaxErrorLine42/CV) 📄</h3>
+<h3 align="left">
+  📝 Check out my <a href="https://github.com/SyntaxErrorLine42/CV/blob/main/Luka%20Volarevi%C4%87%20CV%20(English).pdf">CV</a> 📝
+</h3>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SyntaxErrorLine42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SyntaxErrorLine42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyntaxErrorLine42&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
