@@ -56,12 +56,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SyntaxErrorLine42&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="300" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyntaxErrorLine42&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyntaxErrorLine42&radius=16&theme=react&area=true&order=5&hide_border=false&hide_title=false" height="215" alt="activity-graph graph"  />
 </div>
 
 ###
