@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">💻 DevOps & Software Engineering enthusiast | Linux, Kubernetes, Cloud, Web Development  <br><br>🎓 Finishing up my Bachelor's Degree in Zagreb, Croatia  <br><br>👨‍💻 Currently learning about Cloud, optimizing server performance, creating web applications, system design  <br><br>🚀 Building side projects focused on optimizing workflow with Linux, i3wm, Vim, Tmux, Zsh...</p>
+<p align="left">💻 DevOps & Software Engineering enthusiast | Linux, Kubernetes, Cloud, Web Development  <br><br>🎓 Working on my Masters's Degree in Zagreb, Croatia  <br><br>👨‍💻 Currently learning about Cloud, optimizing server performance, creating web applications, system design  <br><br>🚀 Building side projects focused on optimizing workflow with Linux, i3wm, Vim, Tmux, Zsh...</p>
 
 ###
 
